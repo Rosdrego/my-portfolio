@@ -1,6 +1,6 @@
-# Portfólio de Desenvolvedor
+# Portfólio Pessoal
 
-Este é o repositório do meu portfólio pessoal de desenvolvedor, criado com **React.js** e **Framer Motion** para animações. O portfólio exibe minhas habilidades, projetos, informações de contato e inclui um menu responsivo com um design tecnológico e moderno.
+Este é o repositório do meu portfólio, criado com **React.js** e **Framer Motion** para animações. O portfólio exibe minhas habilidades, projetos, informações de contato e inclui um menu responsivo com um design tecnológico e moderno.
 
 ## Índice
 
