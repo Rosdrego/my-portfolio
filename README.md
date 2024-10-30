@@ -61,7 +61,7 @@ O projeto estará rodando em http://localhost:3000.
 Abaixo está uma estrutura simplificada do projeto:
 
 plaintext
-
+```
 ├── public
 │   └── index.html                          # Arquivo HTML principal
 ├── src
@@ -78,7 +78,7 @@ plaintext
 │   └── index.js                             # Ponto de entrada do React
 ├── package.json                             # Dependências e scripts do projeto
 └── README.md                                # Documentação do projeto
-
+```
 Autor
 Desenvolvido por Rodrigo. Conecte-se comigo no LinkedIn ou GitHub.
 
