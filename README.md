@@ -79,7 +79,6 @@ plaintext
 ├── package.json                             # Dependências e scripts do projeto
 └── README.md                                # Documentação do projeto
 ```
-Autor
-Desenvolvido por Rodrigo. Conecte-se comigo no LinkedIn ou GitHub.
+Desenvolvido por Rodrigo.
 
 Se tiver alguma dúvida ou sugestão, entre em contato!
